@@ -13,6 +13,7 @@ console.log('Feature2 - 2nd commit');
 console.log('Feature2 - 3rd commit');
 
 console.log('Feature2-child - 1st commit');
+console.log('Feature2-child - 2nd commit');
 
 
 
