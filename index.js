@@ -14,5 +14,6 @@ console.log('Feature2 - 3rd commit');
 
 
 console.log('Feature2 - 1st commit');
+console.log('Feature2 - 2nd commit');
 
 
